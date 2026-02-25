@@ -61,6 +61,6 @@
 - 网站名称：田の猫窝
 - 网站介绍：世界终会拨云见日
 - 网站地址：[https://tiannocattery.netlify.app/](https://tiannocattery.netlify.app/)
-- 网站头像：[https://tiannocattery.netlify.app/avatar.jpg](https://tiannocattery.netlify.app/)
+- 网站头像：[https://tiannocattery.netlify.app/avatar.jpg](https://tiannocattery.netlify.app/avatar.jpg)
 
 **感谢大家支持喵呜！咱会继续加油的 ~** 🙏
