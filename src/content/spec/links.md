@@ -4,7 +4,7 @@
 
 不过目前这里的船还很少呢...QwQ。等我变得更厉害了一定会更受欢迎的吧，希望大家能支持一下呢喵 ~
 
-## ✨ 已有友链
+## ✨ 友链列表
 
 <div class="mt-8">
 <!-- 友链卡片区域 -->
@@ -27,7 +27,30 @@
         />
         <div class="ml-4 flex-1">
             <h3>Pinpe 的云端</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-300">一个属于自己的云朵。</p>
+            <p class="text-sm text-gray-600 dark:text-gray-300">一个属于自己的云朵</p>
+        </div>
+    </div>
+</a>
+<a
+    href="https://zotero-chinese.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block transition-transform hover:scale-[1.02] active:scale-[0.98]"
+>
+    <div class="flex-1">
+    <div
+        class="flex items-center p-4 h-32 rounded-lg border border-gray-300 dark:border-gray-700 bg-transparent dark:bg-transparent shadow-sm hover:shadow-md transition-shadow"
+    >
+        <img
+            src="https://zotero-chinese.com/logo.png"
+            alt="Zotero 中文社区"
+            class="w-20 h-20 rounded-full object-cover"
+            loading="lazy"
+            onerror="this.src='https://placehold.co/64x64/1e293b/ffffff?text=Zotero'"
+        />
+        <div class="ml-4 flex-1">
+            <h3>Zotero 中文社区</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-300">由志愿者组成的 Zotero 中文小组</p>
         </div>
     </div>
 </a>
