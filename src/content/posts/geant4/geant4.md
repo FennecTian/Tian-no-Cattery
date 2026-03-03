@@ -8,3 +8,11 @@ category: '科研'
 draft: true
 lang: ''
 ---
+
+## 安装
+
+在安装 Geant4 之前，咱先把 root 给装了～
+
+```bash
+sudo pacman -Syu root-cuda
+```
