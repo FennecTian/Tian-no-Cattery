@@ -2,7 +2,7 @@
 title: Zotero 文献管理使用心得
 published: 2026-03-01
 description: '浅浅尝试了一下在 Archlinux 中使用 Zotero'
-image: 'https://d4.alternativeto.net/zPIRZwtfnrno7v-aO2Wm-_LJDe0X6XbV6ububQne6Gc/rs:fill:1520:760:0/g:ce:0:0/YWJzOi8vZGlzdC9jb250ZW50LzE3NDkxNTIxNzAyMzMucG5n.png'
+image: './image/zotero/1749152170233.png'
 tags: [文献管理]
 category: '科研'
 draft: false
