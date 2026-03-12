@@ -1,6 +1,6 @@
 ---
 title: 在 ArchLinux 中安装、配置 Geant4、并与 Python 绑定
-published: 2026-02-26
+published: 2026-03-12
 description: ''
 image: ''
 tags: [Geant4, Python]
